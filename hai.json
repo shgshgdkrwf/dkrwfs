@@ -27,13 +27,13 @@
     },
      {
         "name": "YouTube & TikTok B(Gandengan Xtra Combo)",
-        "price": "1000",
+        "price": "10000",
         "detail": "support E-Wallet & QRIS & PULSA",
         "packages": [
             {
                 "family_name": "family_name",
                 "family_code": "8080ddcf-18c5-4d6d-86a4-89eb8ca5f2d1",
-                "price": "5000",
+                "item_price": "5000",
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "variant_name",
@@ -44,7 +44,7 @@
             {
                 "family_name": "family_name",
                 "family_code": "9f4629df-b411-463d-aa84-bf019b2f0341",
-                "price": "5000",
+                "item_price": "5000",
                 "is_enterprise": false,
                 "variant_name": "variant_name",
                 "variant_code": "887d2431-b4fc-42f1-9211-95997af88dbd",
