@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Add On Facebook 14GB (Gandengan Xtra Combo)",
+        "price": "1000",
+        "detail": "support E-Wallet & QRIS & PULSA",
+        "packages": [
+            {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "Facebook 20GB",
+                "order": 7
+            },
+            {
+                "family_name": "Work & School",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "variant_name": "Work & School",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "Education 2GB",
+                "order": 6
+            }
+        ]
+    },
+    {
+        "name": "Add On Masked 6GB (Gandengan Xtra Combo)",
+        "price": "35000",
+        "detail": "Support E-Wallet & QRIS & PULSA.\nHanya bisa dibeli kalau punya XCP/XCVIP tertentu.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XCP/XCVIP.",
+        "packages": [
+            {
+                "family_name": "family_name",
+                "family_code": "f59b6f2b-4d77-4443-8361-3b1d3377f09e",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "c1a05696-8360-47ce-a915-34a5a1093929",
+                "option_name": "Xtra Combo Flex S+",
+                "order": 49
+            },
+            {
+                "family_name": "XTRA Unlimited Turbo",
+                "family_code": "9f4629df-b411-463d-aa84-bf019b2f0341",
+                "is_enterprise": false,
+                "variant_name": "Xtra Unlimited Turbo Movie Booster",
+                "variant_code": "887d2431-b4fc-42f1-9211-95997af88dbd",
+                "option_name": "iFlix",
+                "order": 1
+            }
+        ]
+    }
+]
