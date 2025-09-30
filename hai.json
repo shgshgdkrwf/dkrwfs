@@ -44,11 +44,12 @@
             {
                 "family_name": "family_name",
                 "family_code": "9f4629df-b411-463d-aa84-bf019b2f0341",
+                "price": "5000",
                 "is_enterprise": false,
                 "variant_name": "variant_name",
                 "variant_code": "887d2431-b4fc-42f1-9211-95997af88dbd",
                 "option_name": "iFlix",
-                "order": 2
+                "order": 1
             }
         ]
     },
