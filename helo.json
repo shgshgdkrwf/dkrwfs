@@ -26,7 +26,7 @@
     },
     {
         "name": "Add On Masked 6GB (Gandengan Xtra Combo)",
-        "price": "Rp 5000",
+        "price": "35000",
         "detail": "Support E-Wallet & QRIS & PULSA.\nHanya bisa dibeli kalau punya XCP/XCVIP tertentu.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XCP/XCVIP.",
         "packages": [
             {
@@ -35,7 +35,7 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "c1a05696-8360-47ce-a915-34a5a1093929",
-                "option_name": "Xtra Combo Flex XS",
+                "option_name": "Xtra Combo Flex S+",
                 "order": 49
             },
             {
