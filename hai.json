@@ -31,23 +31,24 @@
         "detail": "support E-Wallet & QRIS & PULSA",
         "packages": [
             {
-                "family_name": "Apps Quota Xtra Combo Plus 1GB",
+                "family_name": "family_name",
                 "family_code": "8080ddcf-18c5-4d6d-86a4-89eb8ca5f2d1",
+                "price": "5000",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_name": "Bonus Xtra Combo Plus 1GB",
+                "variant_name": "variant_name",
                 "variant_code": "0210c7da-5148-4f6a-891d-2acf6b7499a9",
                 "option_name": "YouTube & TikTok 42GB",
                 "order": 2
             },
             {
-                "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_name": "family_name",
+                "family_code": "9f4629df-b411-463d-aa84-bf019b2f0341",
                 "is_enterprise": false,
-                "variant_name": "Work & School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 2GB",
-                "order": 6
+                "variant_name": "variant_name",
+                "variant_code": "887d2431-b4fc-42f1-9211-95997af88dbd",
+                "option_name": "iFlix",
+                "order": 2
             }
         ]
     },
