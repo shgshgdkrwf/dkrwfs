@@ -26,17 +26,17 @@
     },
     {
         "name": "Add On Masked 6GB (Gandengan Xtra Combo)",
-        "price": "2000",
+        "price": "5000",
         "detail": "Support E-Wallet & QRIS & PULSA.\nHanya bisa dibeli kalau punya XCP/XCVIP tertentu.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XCP/XCVIP.",
         "packages": [
             {
                 "family_name": "family_name",
-                "family_code": "10b199d9-b0c4-4b58-9bb7-798b8a13a2f2",
+                "family_code": "f59b6f2b-4d77-4443-8361-3b1d3377f09e",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "5daada89-4b37-4fb8-8535-e8ac7adb9b14",
-                "option_name": "Instagram 2GB",
-                "order": 8
+                "variant_code": "c1a05696-8360-47ce-a915-34a5a1093929",
+                "option_name": "Xtra Combo Flex XS",
+                "order": 35
             },
             {
                 "family_name": "family_name",
