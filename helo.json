@@ -25,18 +25,18 @@
         ]
     },
     {
-        "name": "Add On Youtube 24GB (Gandengan Xtra Combo)",
-        "price": "Rp1000",
+        "name": "Add On Masked 6GB (Gandengan Xtra Combo)",
+        "price": "2000",
         "detail": "Support E-Wallet & QRIS & PULSA.\nHanya bisa dibeli kalau punya XCP/XCVIP tertentu.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XCP/XCVIP.",
         "packages": [
             {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "family_name": "family_name",
+                "family_code": "10b199d9-b0c4-4b58-9bb7-798b8a13a2f2",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "YouTube 26GB",
-                "order": 6
+                "variant_code": "5daada89-4b37-4fb8-8535-e8ac7adb9b14",
+                "option_name": "Instagram 2GB",
+                "order": 8
             },
             {
                 "family_name": "Work & School",
