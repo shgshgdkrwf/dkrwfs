@@ -1,6 +1,7 @@
 [
       {
         "name": "Kuota Malam 60GB(Xtra Combo Plus)",
+        "khusus": "XCP",
         "price": "1000",
         "detail": "support E-Wallet & QRIS & PULSA",
         "packages": [
