@@ -1,6 +1,6 @@
 [
       {
-        "name": "Kuota Malam 60GB(Xtra Combo Plus)",
+        "name": "Kuota Malam 60GB",
         "khusus": "XCP",
         "price": "1000",
         "detail": "support E-Wallet & QRIS & PULSA",
@@ -27,7 +27,7 @@
         ]
     },
      {
-        "name": "YouTube & TikTok B(Gandengan Xtra Combo)",
+        "name": "Testing",
         "price": "10000",
         "detail": "support E-Wallet & QRIS & PULSA",
         "packages": [
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "name": "YouTube & TikTok 40GB(Gandengan Xtra Combo)",
+        "name": "YouTube & TikTok 40GB",
         "price": "1000",
         "detail": "support E-Wallet & QRIS & PULSA",
         "packages": [
@@ -83,7 +83,7 @@
         ]
     },
     {
-        "name": "Add On Masked 6GB (Gandengan Xtra Combo)",
+        "name": "XCF",
         "price": "35000",
         "detail": "Support E-Wallet & QRIS & PULSA.\nHanya bisa dibeli kalau punya XCP/XCVIP tertentu.\nTidak akumulasi, beli ulang jika sudah habis.\nMasa aktif mengikuti paket XCP/XCVIP.",
         "packages": [
